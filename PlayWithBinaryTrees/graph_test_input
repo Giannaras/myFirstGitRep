@@ -1,0 +1,12 @@
+A B 7 anon 
+A C 1 anon 
+B D 4 anon
+B F 1 anon
+C B 5 anon
+C E 2 anon
+C F 7 anon
+E B 2 anon
+E D 5 anon
+F E 3 anon 
+SEARCHMODE shortest
+STARTNODE  A
